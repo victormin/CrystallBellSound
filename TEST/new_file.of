@@ -1,0 +1,12 @@
+{
+  "indivisualCompileTargetList" : [ {
+    "compileTargetCommonID" : "COMPILE_TARGET",
+    "propertiesMap" : { },
+    "fileMap" : {
+      "${ofcob.fileName}" : "new_file.cob",
+      "${ofcob.baseName}" : "new_file"
+    },
+    "indivisualCompileTargetID" : "COMPILE_TARGET"
+  } ],
+  "indivisualDeployTargetList" : [ ]
+}
